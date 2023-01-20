@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+ <html>
+    <head>
+      <title> Лучший сайт </title>
+      <meta charset="UTF-8">
+      <meta name="keyworsds" content="мой сайт, html,Лучший сайт">
+      <meta name="description" content="Этот сайт показывает правду">
+      <link rel="shortcut icon" href="https://pngimg.com/uploads/wagner_group/wagner_group_PNG1.png"
+
+    </head>
+
+
+    <body>
+       <h1> БАМ БАМ БАМ </h1>
+       <h2> Мы стреляем по хохлам </h2>
+       <p> Дорогие друзья, это мой первый сайт, заходите на него с <em>хорошими</em> намерениями,<br> либо идите <b>нахуй</b></p>
+       <p id="ideveloper"> Негр</p>
+       <a href="https://vk.com/audio585119850_456240345_be107bac39888c718b"
+       target="_blank">Чтоб мёд малиной не втыкал
+       </a>
+       <a href="#ideveloper">ААААААА</a>
+
+    	 <ul>
+         <li> Негр 1 </li>
+         <li> Негр2 </li>
+         <li> <a href="https://funik.ru/wp-content/uploads/2018/12/b0b05389c6ff1728490b.jpg">это </a>твой отец</li>
+
+      </ul>
+      
+      <hr>
+
+      <table border="1">
+        <thead>
+          <tr>
+            <th>Родители</th>
+            <th>кол-во</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Отчимы</td>
+            <td>1000</td>
+          </tr>
+          <tr>
+             <td>Мамы</td>
+             <td>0</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td cosplan="2"> Итог: ты дотер</td>
+          </tr>
+        </tfoot>
+      </table>
+     
+      <h3>Пов: посмотрел на ютубе гайд по html:</h3>
+      <img src="https://i.imgur.com/wu8D1i2.jpg" alt="">
+      
+
+      
+      
+      <form class="" action="sait.html" method="post">
+        <input type="text">
+        <input type="submit" name="" value="">
+      </form>
+       
+
+ 
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+ </html>
